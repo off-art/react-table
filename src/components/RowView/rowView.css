@@ -1,0 +1,14 @@
+.block {
+  border: 1px solid black;
+  padding: 20px;
+  position: absolute;
+  top: 100px;
+  right: 150px;
+}
+.block p {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  justify-content: space-between;
+  margin: 0;
+  line-height: 35px;
+}

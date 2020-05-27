@@ -1,0 +1,9 @@
+.block-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.block-btn button {
+  margin-right: 10px;
+}
